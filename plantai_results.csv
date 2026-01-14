@@ -1,0 +1,13 @@
+Timestamp,Species,Species Confidence (%),Disease,Disease Confidence (%)
+2025-12-14 22:13:01,Corn,79.64,Rust,82.78
+2025-12-14 22:13:04,Strawberry,84.43,Healthy,77.47
+2025-12-14 22:13:07,Tomato,36.04,Healthy,60.66
+2025-12-14 22:13:10,Strawberry,89.27,Rust,97.86
+2025-12-14 22:13:13,Strawberry,76.56,Rust,99.64
+2025-12-14 22:13:16,Strawberry,77.59,Rust,99.83
+2025-12-14 22:13:19,Strawberry,88.37,Rust,99.97
+2025-12-14 22:13:22,Corn,94.08,Rust,98.47
+2025-12-14 22:19:15,Strawberry,73.07,Rust,96.62
+2026-01-10 09:57:51,Corn,99.95,Rust,98.72
+2026-01-10 09:57:54,Corn,99.92,Rust,77.22
+2026-01-10 09:57:57,Corn,99.98,Rust,93.78

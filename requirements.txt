@@ -1,0 +1,14 @@
+
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+tensorflow>=2.10
+
+keras
+ultralytics    
+tqdm
+Pillow
+roboflow       
+kaggle         
